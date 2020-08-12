@@ -37,3 +37,16 @@ function crearTajetas() {
 }
 
 
+
+
+
+
+crearTajetas();
+
+/*<div class="tarjeta">🐶</div>*/
+
+
+
+
+
+
